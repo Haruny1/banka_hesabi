@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+islemler.txt
+hesap_bilgileri.txt
+
+.vscode/
